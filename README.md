@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinh73&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinh73" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhoseinh73" alt="amirhoseinh73" /></a> </p>
-
 - 🔭 I’m currently working on [luxstars-store](luxstars.ir)
 
 - 🌱 I’m currently learning **CI/CD, Unit Testing**
