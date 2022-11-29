@@ -51,8 +51,10 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> </a>
 </p>
 
+<!--
 <p style="display:none"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhoseinh73&show_icons=true&locale=en&layout=compact" alt="amirhoseinh73" /></p>
 
 <p style="display:none"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhoseinh73&show_icons=true&locale=en" alt="amirhoseinh73" /></p>
 
 <p style="display:none"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhoseinh73&" alt="amirhoseinh73" /></p>
+-->
