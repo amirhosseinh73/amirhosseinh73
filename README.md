@@ -5,7 +5,7 @@
 
 - 🌱 My focus on **JS** & **TS**.
 
-- 💬 I learned **PHP, laravel, wordpress, GO, JS, TS**
+- 💬 I've worked with **PHP, laravel, wordpress development, GO, JS, TS, React**
 
 - 📫 How to reach me **amirhoseinh1373@gmail.com**
 
