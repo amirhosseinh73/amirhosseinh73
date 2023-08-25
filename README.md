@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Hassani</h1>
-<h3 align="center">My Goal is to become a full-stack developer</h3>
+<h3 align="center">My goal is to become a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinh73&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinh73" /> </p>
 
