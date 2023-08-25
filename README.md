@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Hassani</h1>
-<h3 align="center">A perseverance backend developer from Iran</h3>
+<h3 align="center">My Goal is to become a full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinh73&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinh73" /> </p>
 
 - 🌱 My focus on **JS** & **TS**.
 
-- 💬 I've worked with **PHP, laravel, wordpress development, GO, JS, TS, React**
+- 💬 I've worked with **PHP, GO, JS, TS**
 
 - 📫 How to reach me **amirhoseinh1373@gmail.com**
 
