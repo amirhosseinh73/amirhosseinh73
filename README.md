@@ -5,7 +5,7 @@
 
 - 🌱 My focus on **JS** & **TS**.
 
-- 💬 I've worked with **PHP, GO, JS, TS**
+- 💬 I've worked with **React.js, Next.js, Express.js and Laravel**
 
 - 📫 How to reach me **amirhoseinh1373@gmail.com**
 
